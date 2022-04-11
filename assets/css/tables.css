@@ -1,0 +1,36 @@
+#table {
+    position: relative;
+    border: solid black 1px;
+}
+
+#block_table {
+    font-size: 2.5rem !important;
+
+    left: 75vw;
+}
+
+#titre_table, #multiplication {
+    display: inline-block;
+    border: solid black 2px;
+    border-top: solid black 1px;
+    border-bottom: solid black 1px;
+
+    text-align: center;
+}
+
+#calcul, #result {
+    display: inline-block;
+
+    text-align: center;
+    right: 0vw;
+    padding-top: 0.5vw;
+    padding-bottom: 0.5vw;
+}
+
+span.w6#calcul {
+    border-right: solid black 2px;
+}
+
+span.w3#result {
+    border-left: solid black 2px;
+}

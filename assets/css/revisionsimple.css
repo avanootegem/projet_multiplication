@@ -1,0 +1,34 @@
+#block_form_simple {
+    position: relative;
+
+    left: 50vw;
+    padding-top: 10vh;
+
+    transform: translateX(-50%);
+    text-align: center;
+}
+
+#simple select{
+    position: relative;
+    font-size: 1.5rem;
+    margin-bottom: 1vh;
+}
+
+#simple label {
+    position: relative;
+    font-size: 2rem;
+}
+
+#simple #buttonsimple {
+    font-size: 1.5rem;
+    padding: 0.5rem 2rem;
+}
+
+#simple #block_table {
+    position: relative;
+
+    left: 50vw;
+    padding-top: 2vh;
+
+    transform: translateX(-50%);
+}

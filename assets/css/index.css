@@ -1,0 +1,14 @@
+#index div {
+    position: absolute;
+
+    top: 50%;
+    transform: translateY(-50%);
+
+    font-size: 3rem;
+    text-align: center;
+    color: black;
+}
+
+#index div.w40 {
+    text-align: center;
+}

@@ -1,0 +1,152 @@
+@media only screen and (max-width: 1950px) {
+    #index .w3 {
+        width: 5.5vw;
+    }
+    
+    #index .w6 {
+        width: 11.5vw
+    }
+    
+    #index .w10 {
+        width: 19vw;
+    }
+
+    #index .w11 {
+        width: 19.2vw;
+    }
+}
+
+@media only screen and (max-width: 1320px) {
+    /* style_sheet.css */
+    .w3 {
+        width: 5.5vw;
+    }
+    
+    .w6 {
+        width: 11.5vw
+    }
+    
+    .w10 {
+        width: 19vw;
+    }
+
+    .w11 {
+        width: 19.2vw;
+    }
+
+    .w60, .w40{
+        width: 50vw;
+    }
+
+    /* head_foot.css*/
+    #entete {
+        height: 16vh;
+    }
+
+    #entete nav.w100 {
+        height: 16vh;
+    }
+
+    #entete div.w55, #entete ul.w45 {
+        top: 25%;
+        left: 50%;
+        transform: translateY(-50%);
+        transform: translateX(-50%);
+
+        width: 100vw;
+    }
+
+    #entete ul.w45 {
+        top: 75%;
+        text-align: center;
+    }
+
+    /* revisionsimple.css */
+    #block_form_simple {
+        padding-top: 20vh;
+    }
+
+    #simple #block_table {
+        padding-top: 2vh;
+    }
+
+    /* revisionmultiple.css */
+    #block_form_multiple {
+        padding-top: 20vh;
+    }
+
+    /* test.css */
+    #block_form {
+        font-size: 2rem;
+    }
+    
+    input.all_calcul {
+        font-size: 2rem;
+    }   
+}
+
+@media only screen and (max-width: 880px) {
+    /* style_sheet.css*/
+    .w3 {
+        width: 11vw;
+    }
+    
+    .w6 {
+        width: 23vw
+    }
+    
+    .w10 {
+        width: 38vw;
+    }
+
+    .w11 {
+        width: 38.2vw;
+    }
+
+    .w20 {
+        width: 40vw;
+    }
+
+    .w60 {
+        width: 50vw;
+    }
+
+    #index div {
+        font-size: 2.5rem;
+    }
+}
+
+
+@media only screen and (max-width: 600px) {
+    html {
+        font-size: 62.5%;
+    }
+
+    #index div.w60 {
+        padding-left: 2vw;
+    }
+
+    #block_table {
+        font-size: 3.5rem !important;
+    }
+
+    #simple label {
+        font-size: 3rem;
+    }
+
+    #simple #buttonsimple {
+        font-size: 2.5rem;
+    }
+
+    #simple select{
+        font-size: 2.5rem;
+    }
+
+    .all_calcul {
+        font-size: 2.5rem;
+    }
+
+    .button {
+        font-size: 2rem;
+    }
+}

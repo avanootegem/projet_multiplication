@@ -1,0 +1,28 @@
+#test2 {
+    align-items: center;
+    justify-content: center;
+}
+
+#test2 form {
+    flex-direction: column;
+
+    text-align: center;
+    font-size: 4rem;
+}
+
+#test2 form * {
+    margin-top: 1.5rem;
+}
+
+#test2 span {
+    margin-top: 0 !important;
+    font-size: 3rem;
+}
+
+#test2 input {
+    font-size: 3rem;
+}
+
+#selecteur {
+    font-size: 2.5rem;
+}
